@@ -6,4 +6,4 @@
 - Hyperparameters tuning with a help of GridSearch, Optuna
 - Feature analysis with a 'Feature importances' and 'Permutation importances'
 - Clustering with a KMeans algorithm and dimension reduction techniques: PCA, t-SNE and UMAP
-- Best result was achieved with a blending model: __246th__ place out of __4416__ with a RMSLE metric __0.11978__
+- Best result was achieved with a blending model: __246th__ place out of __5347__ with a RMSLE metric __0.11978__
