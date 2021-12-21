@@ -1,5 +1,7 @@
 # Data analysis and implementation of ML models
-- Data set - [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+Competition link - [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+
+What was done:
 - Data preprocessing
 - Feature engineering
 - Models training: Lasso, Enet, XGboost, LGBM
